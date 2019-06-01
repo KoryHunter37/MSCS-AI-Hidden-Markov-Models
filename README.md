@@ -23,5 +23,5 @@ Here is a chart which diagrams these dots and dashes in visual form:
 
 Essentially, I wanted to take the idea of Morse Code and model probably sequences of characters. To start, I thought about just one letter, 'A'.
 
-<p align="center"><img width="483" height="988" src=images/A.png></img></p>
+<p align="center"><img width="988" height="483" src=images/A.png></img></p>
 <div align="center"><b>Fig 2. 'A' Probabilities</b></div>
