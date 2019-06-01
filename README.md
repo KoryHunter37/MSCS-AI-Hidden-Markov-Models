@@ -25,6 +25,8 @@ Essentially, I wanted to take the idea of Morse Code and model probable sequence
 
 <p align="center"><img width="988" height="483" src=images/A.png></img></p>
 <div align="center"><b>Fig 2. 'A' Probabilities</b></div>
+<br/><br/>
+<br/><br/>
 
 To break this down, here are some components of this hidden markov model:
 
@@ -77,6 +79,8 @@ Here is an example of the previous 'A' diagram shown in Figure 2, but with noise
 
 <p align="center"><img width="988" height="483" src=images/A-noise.png></img></p>
 <div align="center"><b>Fig 6. 'A' Noisy Probabilities</b></div>
+<br/><br/>
+<br/><br/>
 
 As well as other new probabilities to consider under noisy conditions:
 
